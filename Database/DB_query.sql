@@ -1,2 +1,2 @@
 select * from adm;
-select * from BCD
+select * from BCD;
